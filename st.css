@@ -1,0 +1,211 @@
+
+header{
+    
+    background-image: url('/image/bridge-sky-suspension-bridge-river-river-tagus-lisbon-mist-fog-portugal.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+margin-top: 90px;
+margin-left: -10px;
+margin-right: -20px;
+margin-bottom: -650px;
+}
+header div {
+    
+}
+body{
+   
+    background-color: rgb(153, 141, 141);
+
+}
+.logo{
+    margin-top: -80px;
+    margin-right: 920px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-left: 20px;
+}
+.logo{
+
+}
+.tete{
+    background-color: white;
+margin-top: -100px;
+}
+.point{
+    color: orange;
+}
+.d{
+ float: right;
+}
+
+.acc{
+    margin-left: 620px;
+    margin-top: -70px;
+ }
+ .dest{
+     margin-left: 720px;
+     margin-top: -35px;
+ }
+ .cir{
+     margin-left: 870px;
+     margin-top: -35px;
+ }
+ .co{
+     margin-left: 980px;
+     margin-right: 25px;
+     margin-top: -35px;
+ }
+
+     a {
+        text-decoration: none;
+        color: black;
+    }
+    .center{
+        background-color: rgb(253, 253, 253);
+        height: 250px;
+        margin-top: -20px;
+        margin-left: -860px;
+        margin-right: -20px;
+        text-align: center;
+
+    }
+.organisez{
+    
+text-align: center;
+margin-top: 0px;
+}
+.organisez1{
+    color: rgb(0, 0, 0);
+    padding-top: 150px;
+    font-size: 50px;
+}
+.voyage{
+    margin-top: -30px;
+    font-size: 60px;
+}
+.bouton{
+    block-size: 40px;
+    width: 90px;
+    background-color: orange;
+    border-color: orange;
+    margin-bottom: 30px;
+}
+.planifier{
+margin-top: 20px;
+margin-left: 200px;
+}
+.planifier1{
+margin-left: px;
+font-size: 20px;
+}
+.im{
+    margin-top: 240px;
+    
+}
+.imp{
+    margin-left: 0px;
+}
+.imo{
+    margin-left: 0px;
+}
+.imv{
+    margin-left: 0px;
+}
+.ime{
+    border-bottom-left-radius: 15px;
+    border-top-left-radius: 15px;
+    background-color: white;
+    padding-left: 250px;
+    margin-left: 590px;
+    margin-top: -90px;
+    width: 220px;
+    height: 300px;
+    border-top-right-radius: 15px;
+   border-bottom-right-radius: 15px;
+}
+.imf{
+    border-bottom-left-radius: 15px;
+    border-top-left-radius: 15px;
+    background-color: white;
+    padding-left: 250px;
+    margin-left: 250px;
+    margin-top: -7px;
+    width: 220px;
+    height: 300px;
+    border-top-right-radius: 15px;
+   border-bottom-right-radius: 15px;
+}
+.organiser{
+margin-top: -226px;
+margin-left: 890px;
+}
+.organiser1{
+    margin-left: 0px;
+font-size: 20px;
+}
+.voyager{
+margin-top: -227px;
+margin-left: 1590px;
+margin-bottom: 100px;
+}
+.voyager1{
+    margin-left: 0px;
+font-size: 20px;
+}
+.cc{
+    margin-top: 60px;
+    margin-bottom: 200px;
+}
+.famille{
+margin-left: 100px;
+
+
+}
+.famille1{
+    margin-top: -300px;
+    margin-bottom: 190px;
+    margin-left: 0px;
+font-size: 20px;
+padding-bottom: 30px;
+}
+.envie{
+ margin-left: 750px;
+ margin-top: -190px;
+}
+.envie1{
+font-size: 20px;
+margin-bottom: 190px;
+margin-top: -300px;
+margin-left: 350px;
+padding-bottom: 30px;
+}
+.contactez{
+margin-left: 800px;
+background-color: white;
+
+}
+.contactez1{
+padding-top: 60px;
+}
+.offre{
+    padding-top: 50px;
+    margin-top: -190px;
+    margin-left: 0px;
+    font-size: 14px;
+}
+.parfois{
+    margin-top: -150px;
+    margin-left: 350px;
+    font-size: 14px;
+}
+.bouton2{
+    padding-bottom: 0px;
+    background-color: orange;
+    border-color: orange;
+}
+.bouton3{
+    margin-left: 350px;
+    background-color: orange;
+    border-color: orange;
+}
